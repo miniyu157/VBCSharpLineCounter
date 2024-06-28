@@ -1,19 +1,19 @@
 # VBCSharpLineCounter
 
-ÊµÏÖ VB/C#.NET ´úÂëĞĞÊıÍ³¼ÆµÄ½â¾ö·½°¸
+å®ç° VB/C#.NET ä»£ç è¡Œæ•°ç»Ÿè®¡çš„è§£å†³æ–¹æ¡ˆ
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-½â¾ö·½°¸Ìá¹©ÁËÁ½¸öÏîÄ¿£¨ÃüÁîĞĞ°æ±¾ ºÍ GUI °æ±¾£©£¬¿ÉÒÔÔÚ [releases](https://github.com/miniyu157/LineCounter/releases) Ò³ÃæÏÂÔØ
+è§£å†³æ–¹æ¡ˆæä¾›äº†ä¸¤ä¸ªé¡¹ç›®ï¼ˆå‘½ä»¤è¡Œç‰ˆæœ¬ å’Œ GUI ç‰ˆæœ¬ï¼‰ï¼Œå¯ä»¥åœ¨ [releases](https://github.com/miniyu157/VBCSharpLineCounter/releases) é¡µé¢ä¸‹è½½
 
-## Ô­Àí
-½âÎö .sln ÎÄ¼ş£¬±éÀúÏîÄ¿ÎÄ¼ş¼ĞÖĞµÄÎÄ¼ş²¢Í³¼ÆĞĞÊı (×Ô¶¯ÅÅ³ı .Designer ÎÄ¼ş)
+## åŸç†
+è§£æ .sln æ–‡ä»¶ï¼Œéå†é¡¹ç›®æ–‡ä»¶å¤¹ä¸­çš„æ–‡ä»¶å¹¶ç»Ÿè®¡è¡Œæ•° (è‡ªåŠ¨æ’é™¤ .Designer æ–‡ä»¶)
 
-ÆäÖĞ£¬```string.ExtractAllBetween``` ·½·¨ÊÇÍ¨¹ı [KlxPiaoAPI.TextExtractor](https://github.com/miniyu157/KlxPiao/blob/master/KlxPiaoAPI/TextExtractor.cs)  ÊµÏÖµÄ
+å…¶ä¸­ï¼Œ```string.ExtractAllBetween``` æ–¹æ³•æ˜¯é€šè¿‡ [KlxPiaoAPI.TextExtractor](https://github.com/miniyu157/KlxPiao/blob/master/KlxPiaoAPI/TextExtractor.cs)  å®ç°çš„
 
 ![klxpiaoapicode](screenshot/klxpiaoapicode.png)
 
-## Ô¤ÀÀ
+## é¢„è§ˆ
 
 ![gui](screenshot/gui.png)
 
